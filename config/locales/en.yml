@@ -1,0 +1,4 @@
+en:
+  api:
+    errors:
+      invalid_model: "The object couldn't be saved"
